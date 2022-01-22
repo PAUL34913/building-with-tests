@@ -18,7 +18,7 @@ Using red/green factor process to build.
 
 ## Functions
 
-**newGame()**
+**newGame(;**
 
 - Reset the score to 0
 - Clear the playerMoves array
@@ -26,15 +26,21 @@ Using red/green factor process to build.
 - Call show score function
 - Call add turn function
 
-**showScore()**
+**showScore();**
 
 - Show the score
 
-**addTurn()**
+**addTurn();**
 
 - Clear the playerMoves array
 - Randomly add a button ID to the currentGame array
 - Call showTurns function
+
+**showTurns();**
+
+- Step through currentGame
+- Turn on light
+- Turn off light
 
 ## Changelog
 
