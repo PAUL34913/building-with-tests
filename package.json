@@ -1,0 +1,23 @@
+{
+  "name": "building-with-tests",
+  "version": "1.0.0",
+  "description": "Simple JavaScript project built using JEST and test driven development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAUL34913/building-with-tests.git"
+  },
+  "author": "",
+  "jshint.options": { "esversion": 6 },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PAUL34913/building-with-tests/issues"
+  },
+  "homepage": "https://github.com/PAUL34913/building-with-tests#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
