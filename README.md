@@ -36,11 +36,20 @@ Using red/green factor process to build.
 - Randomly add a button ID to the currentGame array
 - Call showTurns function
 
+**lightsOn();**
+
+- Turn on light
+- Turn off light
+
 **showTurns();**
 
 - Step through currentGame
-- Turn on light
-- Turn off light
+
+**playerTurn**
+
+- Check if the player move matches the computer sequence
+- At the end of the sequence, increment score and add another turn
+- If moves do not match, display alert and start new game
 
 ## Changelog
 
