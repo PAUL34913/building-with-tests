@@ -51,6 +51,13 @@ Using red/green factor process to build.
 - At the end of the sequence, increment score and add another turn
 - If moves do not match, display alert and start new game
 
+**Additional Testing**
+
+- What if the player clicks a button before the game has started?
+- What if the players clicks a button during the sequence?
+- Set another value in the game state.
+- Create a new key called turnInProgress that can be true or false.
+
 ## Changelog
 
 21/01/22
@@ -64,8 +71,12 @@ Using red/green factor process to build.
 
 22/01/22
 
-- Added playerTurn function.
+- Added showTurns function and testing.
+- Added playerTurn function and testing.
 
 23/01/22
 
-- 
+- Added turnNumber and lastButton to game object.
+- Finished newGame function and testing.
+- Completed additional testing for turnNumber and lastButton.
+- Project complete.
