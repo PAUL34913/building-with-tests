@@ -61,3 +61,11 @@ Using red/green factor process to build.
 - Added newGame and showScore functions and testing
 - Added addTurn function and testing
 - Added lightsOn function and testing
+
+22/01/22
+
+- Added playerTurn function.
+
+23/01/22
+
+- 
