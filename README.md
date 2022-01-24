@@ -45,7 +45,7 @@ Using red/green factor process to build.
 
 - Step through currentGame
 
-**playerTurn**
+**playerTurn();**
 
 - Check if the player move matches the computer sequence
 - At the end of the sequence, increment score and add another turn
