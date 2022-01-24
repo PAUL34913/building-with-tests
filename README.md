@@ -18,7 +18,7 @@ Using red/green factor process to build.
 
 ## Functions
 
-**newGame(;**
+**newGame();**
 
 - Reset the score to 0
 - Clear the playerMoves array
